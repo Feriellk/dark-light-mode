@@ -35,6 +35,9 @@ input{
     height:30px;
 }
 .container1{
+    display: flex;
+    justtify-content: center;
+    align-items: center;
     padding: 30px;
     text-align: left;
     width: 430px;
